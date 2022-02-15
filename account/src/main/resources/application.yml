@@ -32,6 +32,6 @@ lab:
   account:
     exceptions:
       account-dont-exists-message: "Conta não encontrada."
-      account-dont-exists-description: "N�o foi possível encontrar a conta corrente informada."
+      account-dont-exists-description: "Não foi possível encontrar a conta corrente informada."
       account-without-balance-message: "Saldo insuficiente."
-      account-without-balance-description: "N�o foi possível efetuar o débito, o saldo da conta informada é insuficiente."
+      account-without-balance-description: "Não foi possível efetuar o débito, o saldo da conta informada é insuficiente."
